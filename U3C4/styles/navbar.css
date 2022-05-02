@@ -1,0 +1,18 @@
+#navbar{
+    border: 2px solid teal;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navbar h1{
+    color: teal;
+    font-size: 50px;
+}
+#search_input{
+    width: 70%;
+    height: 60px;
+    border-radius: 10px;
+    padding: 10px 10px 10px 50px;
+    font-size: 25px;
+}
